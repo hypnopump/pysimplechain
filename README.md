@@ -2,8 +2,7 @@
 ## Python implementation of a blockchain in less than 150 lines of code
 A Python Implementation of a simple blockchain. Less than 150 lines of code.
 
-![Build Status][logo]
-[logo]: https://img.shields.io/travis/USER/REPO.svg "Build Status"
+![Build Status][build-image]
 
 Basic methods:
 * **Add Block:** Allows to add a block to the chain and store some data in in.
@@ -15,3 +14,7 @@ Basic methods:
 
 ## "A Blockchain is a linked list data structure where the links are hash pointers.""
 
+## Meta
+[Eric Alcaide](https://github.com/EricAlcaide/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
+
+[build-image]: https://img.shields.io/travis/rust-lang/rust/master.svg "Build Status"
