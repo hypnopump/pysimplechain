@@ -2,7 +2,8 @@
 ## Python implementation of a blockchain in less than 150 lines of code
 A Python Implementation of a simple blockchain. Less than 150 lines of code.
 
-![Build status][https://img.shields.io/travis/USER/REPO.svg]
+![Build Status][logo]
+[logo]: https://img.shields.io/travis/USER/REPO.svg "Build Status"
 
 Basic methods:
 * **Add Block:** Allows to add a block to the chain and store some data in in.
