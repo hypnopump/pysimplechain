@@ -145,4 +145,3 @@ class Block():
 if __name__ == "__main__":
 	chain = Chain()
 	chain.manager()
-	
