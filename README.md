@@ -5,7 +5,7 @@ A Python Implementation of a simple blockchain. Less than 150 lines of code.
 ![Build Status][build-image]
 
 Basic methods:
-* **Add Block:** Allows to add a block to the chain and store some data in in.
+* **Add Block:** Allows to add a block to the chain and store some data in it.
 * **Show Genesis Block:** Shows the genesis block attributes.
 * **Show Last Block:** Shows the last block attributes.
 * **Show n Block:** Shows the Nth block attributes.
