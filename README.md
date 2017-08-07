@@ -12,7 +12,7 @@ Basic methods:
 * **Show Chain:** Shows the whole chain, one block at a time.
 * **Shutdown:** Terminate the program and delete the blockchain.
 
-## "A Blockchain is a linked list data structure where the links are hash pointers." - Alex Sicart
+### "A Blockchain is a linked list data structure where the links are hash pointers." - Alex Sicart
 
 ## Contribute
 Hey there! New ideas are welcome: open/close issues, fork the repo and share your code with a Pull Request.
