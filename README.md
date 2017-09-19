@@ -1,6 +1,6 @@
 # Pysimplechain
-## Python implementation of a blockchain in less than 150 lines of code
-A Python Implementation of a simple blockchain. Less than 150 lines of code.
+## Python implementation of a blockchain in less than 200 lines of code
+A Python Implementation of a simple blockchain. Less than 200 lines of code.
 
 ![Build Status][build-image]
 
