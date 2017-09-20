@@ -4,7 +4,7 @@
 	Simple Blockchain where each block points
 	to the previous block. It's a basic implementation
 	and does NOT include advanced features like
-	prove of work or peer to peer.
+	proof of work or peer to peer.
 """
 
 import datetime
