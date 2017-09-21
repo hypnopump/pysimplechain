@@ -11,7 +11,7 @@ import datetime
 import hashlib
 import time
 
-class Message():
+class Message:
 	def __init__(self, data):
 		self.hash = None
 		self.prev_hash = None
