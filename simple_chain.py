@@ -29,12 +29,10 @@ class Message:
 	def link(self, message):
 		""" Link the message to the previous one via hashes."""
 		self.prev_hash = message.hash
-		# return self
 
 	def seal(self):
 		""" Get the message hash. """
 		self.hash = self._hash_message()
-		# return self
 
 	def validate(self):
 		""" Check whether the message is valid or not. """
@@ -155,7 +153,7 @@ def manager():
 			- validate the chain integrity       (5)
 			- exit the program                   (6)
 
-		The validate action will kill the program if the integrity f the chain
+		The validate action will kill the program if the integrity if the chain
 		is compromised.
 		"""
 
