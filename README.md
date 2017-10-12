@@ -6,7 +6,7 @@ A Python Implementation of a simple blockchain. Less than 200 lines of code.
 
 ## Description
 
-The Pysimplechain implementation is focused almost exclusively in the hashed ledger feature. It does not include any advanced feature like a distributed ledger or a consensus protocol via proof of work. Here you'll also find that the idea of the "transaction" is abstracted to a more general concept of "message" that can contain any type of data.
+The Pysimplechain implementation is focused almost exclusively in the hashed ledger feature. It does not include any advanced feature like a distributed ledger or a consensus protocol via proof of work. Here you'll also find that the idea of the "transaction" is abstracted to a more general concept of "`message`" that can contain any type of data.
 
 For that reason, the goal of this project is to explain and to make clearer how is a blockchain structured at the very core. It's not built with the intention to replicate an advanced blockchain like Bitcoin or Ethereum.
 
