@@ -28,7 +28,7 @@ A `manager()` function is provided to interact with the blockchain via the Termi
 * **Add Block to Chain:** Allows to add the current block to the chain if it's not empty.
 * **Show Block:** Asks for an index and if exists a block with that index, returns some of the block attributes.
 * **Show Chain:** Returns some of the block attributes for each block in the chain.
-* **Validate Integrity:** Returns True if the integrity is validated, terminates the program raisiing the appropiate exception otherwise.
+* **Validate Integrity:** Returns True if the integrity is validated, terminates the program raisiing the appropriate exception otherwise.
 * **Exit:** Terminates the program and deletes the blockchain.
 
 
