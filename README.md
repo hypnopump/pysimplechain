@@ -40,6 +40,6 @@ Clone this project to your computer:
 `git clone https://github.com/EricAlcaide/pysimplechain`
 
 ## Meta
-[Eric Alcaide](https://github.com/EricAlcaide/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
+[Eric Alcaide](https://github.com/hypnopump/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
 
 [build-image]: https://img.shields.io/travis/rust-lang/rust/master.svg "Build Status"
